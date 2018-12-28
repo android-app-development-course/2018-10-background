@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.steamcrafted:load-toast-1.0.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/load-toast-1.0.12.aar/35be4f8232095850801c33eb7a5922a8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/load-toast-1.0.12.aar/35be4f8232095850801c33eb7a5922a8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.steamcrafted/load-toast/1.0.12/970b0e64505fa152ac176f56982841da3ea8a9bd/load-toast-1.0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

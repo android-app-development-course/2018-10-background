@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\AndroidFile\\AndroidProject\\changeBackground\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\mgh\\Desktop\\changeBackground-master\\changeBackground\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\mgh\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\847333b1c91b91480be4f5b2b08f8065\\res\\values-v21\\values-v21.xml",
